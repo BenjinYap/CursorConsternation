@@ -1,0 +1,6 @@
+*.fla
+*.swf
+mochi/
+Assets/
+Resources/
+*.png

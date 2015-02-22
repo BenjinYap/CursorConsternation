@@ -1,0 +1,10 @@
+Can you survive the CPU's wrath?
+
+You are a cursor. The CPU wants to get rid of you sadistically by forcing you through an increasingly difficult and endless maze until you hit the walls and is eliminated. You must survive the maze for as long as possible.
+
+The maze is randomly generated, no two are the same.
+
+Controls
+Mouse - Move the cursor
+Space - Cloak the cursor to move through walls
+ESC - Pause
